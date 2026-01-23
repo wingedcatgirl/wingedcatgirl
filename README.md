@@ -1,5 +1,7 @@
 ## Hey there everynyan this is Minty 🐈️
 ### Go look at the things I made
+- [Bibliography](https://github.com/wingedcatgirl/Bibliography)
+- [Go to bed, Minty](https://github.com/wingedcatgirl/Go-To-Bed--Minty)
 - [Minty's Silly Little Mod](https://github.com/wingedcatgirl/MintysSillyMod)
 - [Spectrum Framework](https://github.com/wingedcatgirl/SpectrumFramework)
 - [re:Blue Stake](https://github.com/wingedcatgirl/re-Blue-Stake)
