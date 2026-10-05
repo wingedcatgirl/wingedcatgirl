@@ -8,3 +8,10 @@
 - [Spectrum Framework](https://github.com/wingedcatgirl/SpectrumFramework)
 - [re:Blue Stake](https://github.com/wingedcatgirl/re-Blue-Stake)
 - [re:Unlock All](https://github.com/wingedcatgirl/re-Unlock-All)
+
+### and also the things I participated in
+- ?????????? (It is a mysteryyyyyyyy)
+- [Fish and Chips](https://github.com/Balatro-Potato-Patch/Fish-and-Chips)
+- [Smallpox](https://github.com/cosmeggo/Smallpox)
+- [Stocking Stuffer](https://github.com/Balatro-Potato-Patch/Stocking-Stuffer)
+- [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole/)
