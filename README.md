@@ -8,6 +8,7 @@
 - [Spectrum Framework](https://github.com/wingedcatgirl/SpectrumFramework)
 - [re:Blue Stake](https://github.com/wingedcatgirl/re-Blue-Stake)
 - [re:Unlock All](https://github.com/wingedcatgirl/re-Unlock-All)
+- [Crash Webhooks](https://github.com/wingedcatgirl/crash-webhooks)
 
 ### and also the things I participated in
 - ?????????? (It is a mysteryyyyyyyy)
